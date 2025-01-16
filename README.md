@@ -1,6 +1,6 @@
 # Buscador de Arquivos SisGCorp
 
-Este projeto foi desenvolvido com o objetivo de ajudar a comunidade de CAC no Brasil. Ele utiliza métodos já disponíveis e permitidos para acessar documentos no sistema, apenas automatizando o processo para facilitar a vida dos usuários. Nada aqui é ilegal, estamos apenas resolvendo uma limitação do frontend do site.
+Este projeto foi desenvolvido com o objetivo de ajudar a comunidade de CACs no Brasil. Ele utiliza métodos já disponíveis e permitidos para acessar documentos no sistema, apenas automatizando o processo para facilitar a vida dos usuários. Nada aqui é ilegal, estamos apenas resolvendo uma limitação do frontend do site.
 
 Por um bug no frontend do website, muitos documentos estão deferidos mas ainda aparecem como "em análise" e não é possível baixar o PDF. Este sistema facilita a busca do local do documento via DevTools e baixa automaticamente para o usuário logado.
 
