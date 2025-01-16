@@ -40,6 +40,19 @@ python SISGCORP.py
 
 ---
 
+## Como usar
+
+- Abra o programa ou rode o script
+- Clique em "Abrir Navegador" para abrir o Edge em modo depuração
+- Faça o login na sua conta do SisGCorp
+- Clique em "Capturar Cookies" para o sistema conseguir interagir com a página
+- Clique em "Iniciar Busca" ou digite um número de processo e clique em "Consultar Processo"
+
+Obs. Caso tenha muitas páginas na sua conta, recomendamos navegar manualmente para a página Listar Processo e no final da página escolher para mostrar tudo ou o máximo possível de processos.
+
+
+---
+
 ## Requisitos do Sistema
 
 - Python 3.8 ou superior
