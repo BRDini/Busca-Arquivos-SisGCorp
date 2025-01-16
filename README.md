@@ -34,7 +34,7 @@ python SISGCORP.py
 ## Funcionalidades
 
 - Busca automática de documentos deferidos que ainda aparecem como "Pronto para Análise, Em análise e Deferido".
-- Você pode iniciar a busca para buscar todos os documentos da conta ou escolher digitar um número de processo especifico para consulta.
+- Você pode clicar no botão "iniciar a busca" para buscar todos os documentos da conta ou digitar o número do processo especifico para consulta.
 - Integração com DevTools para localizar o documento correto.
 - Download automático dos documentos PDF vinculados ao usuário logado.
 
