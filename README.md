@@ -33,7 +33,7 @@ python SISGCORP.py
 
 ## Funcionalidades
 
-- Busca automática de documentos deferidos que ainda aparecem como "em análise".
+- Busca automática de documentos deferidos que ainda aparecem como "Pronto para Análise, Em análise e Deferido".
 - Integração com DevTools para localizar o documento correto.
 - Download automático dos documentos PDF vinculados ao usuário logado.
 
