@@ -1,8 +1,8 @@
-# Busca Arquivos SisGCorp
+# Buscador de Arquivos SisGCorp
 
 Por um bug no frontend do website, muitos documentos estão deferidos mas ainda aparecem como em análise e não é possível baixar o PDF. Este sistema facilita a busca do local do documento via DevTools e baixa automaticamente para o usuário logado.
 
-Utilize o instalador para facilitar a instalação. Caso deseje rodar o script manualmente, siga as instruções abaixo:
+Utilize o instalador em releases para facilitar a instalação. Caso deseje rodar o script manualmente, siga as instruções abaixo:
 
 ## Passos para execução manual:
 
