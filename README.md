@@ -14,7 +14,7 @@ Certifique-se de instalar o Python e adicionar o diretório ao PATH durante a in
 
 ```bash
 python -m venv env
-source env/bin/activate  # No Windows, use `env\Scripts\activate`
+env\Scripts\activate
 ```
 
 ### 3. Instale as dependências
@@ -42,14 +42,14 @@ python SISGCORP.py
 ## Requisitos do Sistema
 
 - Python 3.8 ou superior
-- Sistema operacional Windows, macOS ou Linux
+- Sistema operacional Windows
 - Navegador Microsoft Edge instalado
 
 ---
 
 ## Problemas Conhecidos
 
-- O sistema depende do Microsoft Edge e pode não funcionar com outros navegadores.
+- O sistema depende do Microsoft Edge e não funciona com outros navegadores.
 - Certifique-se de que o DevTools esteja ativado para capturar as informações corretamente.
 
 ---
@@ -67,4 +67,3 @@ Sinta-se à vontade para contribuir com melhorias neste projeto. Para isso:
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
