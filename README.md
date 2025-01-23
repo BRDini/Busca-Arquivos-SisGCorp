@@ -67,6 +67,7 @@ Obs. Caso tenha muitas páginas na sua conta, recomendamos navegar manualmente p
 
 - O sistema depende do Microsoft Edge e não funciona com outros navegadores.
 - Certifique-se de que o DevTools esteja ativado para capturar as informações corretamente.
+- Alguns antivírus podem identificar o script como uma ameaça, gerando um falso positivo. Para resolver isso, basta adicionar o script à lista de permissões do antivírus em questão. Ressaltamos que o código é aberto e está disponível nos documentos listados acima, permitindo sua análise detalhada e a confirmação de que não há qualquer conteúdo malicioso.
 
 ---
 
